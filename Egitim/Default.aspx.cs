@@ -13,6 +13,8 @@ namespace Egitim
         {
             Response.Write("<script>alert('Hoş Geldiniz....');</script>");
 
+            // Yorum satırı
+
         }
 
         protected void btn1_Click(object sender, EventArgs e)
