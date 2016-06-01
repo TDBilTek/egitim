@@ -22,6 +22,9 @@ namespace Egitim
             Response.Write("<script>alert('"+TextBox1.Text+"');</script>");
 
             lbl1.Text = DateTime.Now.ToShortDateString();
+
+            // karınca
+
         }
     }
 }
